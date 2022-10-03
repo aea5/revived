@@ -6,15 +6,9 @@
     <template>
 
       <div>
-        <a href="https://vitejs.dev" target="_blank">
-          <img src="/vite.svg" class="logo" alt="Vite logo" />
-        </a>
-        <a href="https://vuejs.org/" target="_blank">
-          <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
-        </a>
-      </div>
       <iframe width="800" height="1600" src="src/pages/renwen/R.html"></iframe>
-    
+    </div>
+
       <HelloWorld msg="Vite + Vue" />
       
     </template>

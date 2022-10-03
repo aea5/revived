@@ -94,7 +94,7 @@
         rectangle="(64,25) (104, 42)  http://www.nj.js.cn"
         rectangle="(9,26) (52, 41)  http://www.sz.js.cn" src="sndh3.gif" width="120" height="244"
         alt="sndh3.gif (3753 bytes)" border="0" --><map name="FrontPageMap2"><area shape="RECT" coords="6, 205, 114, 223" href="https://web.archive.org/web/19990117020244/http://www.ptt.js.cn/"><area shape="RECT" coords="22, 176, 91, 191" href="https://web.archive.org/web/19990117020244/http://www.lyg.js.cn/"><area shape="RECT" coords="66, 146, 102, 162" href="https://web.archive.org/web/19990117020244/http://www.nt.js.cn/"><area shape="RECT" coords="12, 145, 54, 161" href="https://web.archive.org/web/19990117020244/http://www.xz.js.cn/"><area shape="RECT" coords="63, 115, 104, 132" href="https://web.archive.org/web/19990117020244/http://www.yz.js.cn/"><area shape="RECT" coords="12, 114, 51, 135" href="https://web.archive.org/web/19990117020244/http://www.hy.js.cn/"><area shape="RECT" coords="66, 85, 103, 101" href="https://web.archive.org/web/19990117020244/http://www.zj.js.cn/"><area shape="RECT" coords="11, 86, 52, 103" href="https://web.archive.org/web/19990117020244/http://www.yc.js.cn/"><area shape="RECT" coords="66, 54, 105, 71" href="https://web.archive.org/web/19990117020244/http://www.wx.js.cn/"><area shape="RECT" coords="11, 56, 50, 71" href="https://web.archive.org/web/19990117020244/http://www.cz.js.cn/"><area shape="RECT" coords="64, 25, 104, 42" href="https://web.archive.org/web/19990117020244/http://www.nj.js.cn/"><area shape="RECT" coords="9, 26, 52, 41" href="https://web.archive.org/web/19990117020244/http://www.sz.js.cn/"></map><img src="./暨阳热线_files/sndh3.gif" width="120" height="244" alt="sndh3.gif (3753 bytes)" border="0" usemap="#FrontPageMap2"><!--webbot bot="ImageMap" i-checksum="36590"
-        endspan --> <a href="https://web.archive.org/web/19990117020244mp_/http://best.nease.net/cgi-bin/view/viewbasic.cgi?jyonline" target="_blank"><img src="./暨阳热线_files/log.cgi" border="0" height="2" width="2" alt="网易中文排行榜"></a> <!--webbot bot="HTMLMarkup" startspan --><!--webbot
+        endspan --> <a href="https://web.archive.org/web/19990117020244mp_/http://best.nease.net/cgi-bin/view/viewbasic.cgi?jyonline" target="_blank"></a> <!--webbot bot="HTMLMarkup" startspan --><!--webbot
         bot="HTMLMarkup" endspan --> </p></td>
         <td valign="top"><div align="center"><center><table cellspacing="0" cellpadding="0" border="0">
           <tbody><tr>
@@ -369,7 +369,7 @@
             </tbody></table>
             </center></div><p align="center"><a href="https://web.archive.org/web/19990117020244/http://www.jy.js.cn/wsqz/wsqz.htm"><img src="./暨阳热线_files/wsqy3.gif" height="54" width="148" border="0"></a><br>
             <br>
-            <a href="https://web.archive.org/web/19990117020244/http://www.363.net/"><img src="./暨阳热线_files/363net.gif" alt="363net.gif (13212 bytes)" height="40" width="110" border="0"></a><br>
+            <!-- <a href="https://web.archive.org/web/19990117020244/http://www.363.net/"><img src="./暨阳热线_files/363net.gif" alt="363net.gif (13212 bytes)" height="40" width="110" border="0"></a><br> -->
             <br>
             <a href="https://web.archive.org/web/19990117020244/http://www.soim.com/"><img src="./暨阳热线_files/soim_save.gif" alt="soim_save.gif (4384 bytes)" height="48" width="130" border="0"></a><br>
             <br>
