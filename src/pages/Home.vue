@@ -31,7 +31,7 @@
     
     <table width="750" border="0" cellspacing="0">
       <tbody><tr>
-        <td width="150" bgcolor="#FFFFFF" valign="top"><p align="center"><small><font color="#FF0000">共有<img src="./暨阳热线_files/counter.exe" height="20" width="90">人访问该页</font></small></p>
+        <td width="150" bgcolor="#FFFFFF" valign="top"><p align="center"><small><font color="#FF0000">共有??人访问该页</font></small></p>
         <div align="center"><center><table border="0" cellpadding="0" cellspacing="0">
           <tbody><tr>
             <td><img src="./暨阳热线_files/gdlm3_1.gif" width="150" height="56" alt="gdlm3_1.gif (1813 bytes)"></td>
